@@ -59,6 +59,7 @@
 			"prettifyOnSaveJSON": true
 		},
 		"sync-settings": {
+			"hiddenSettings": {},
 			"useOtherLocation": true
 		},
 		"sync-settings-git-location": {
