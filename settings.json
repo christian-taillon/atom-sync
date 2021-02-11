@@ -1,0 +1,89 @@
+{
+	"*": {
+		"atom-beautify": {
+			"json": {}
+		},
+		"atom-ide-ui": {
+			"atom-ide-outline-view": {
+				"nameOnly": true
+			}
+		},
+		"core": {
+			"autoHideMenuBar": true,
+			"disabledPackages": [
+				"wrap-guide",
+				"markdown-preview-plus"
+			],
+			"openEmptyEditorOnStart": false,
+			"telemetryConsent": "no",
+			"themes": [
+				"atom-material-ui",
+				"atom-material-syntax-dark"
+			],
+			"uriHandlerRegistration": "always"
+		},
+		"editor": {
+			"fontFamily": "monospace, Menlo, Consolas, DejaVu Sans Mono, ",
+			"fontSize": 12,
+			"showIndentGuide": true,
+			"softWrap": true
+		},
+		"exception-reporting": {
+			"userId": "cd6f839c-bdac-40c1-9b6f-317298d03393"
+		},
+		"github": {
+			"remoteFetchProtocol": "ssh",
+			"sourceRemoteName": "git@ssh.dev.azure.com:v3/ChristianTaillon/cti/cti"
+		},
+		"markdown-preview": {
+			"useGitHubStyle": true
+		},
+		"markdown-preview-plus": {
+			"useGitHubStyle": true
+		},
+		"platformio-ide-terminal": {
+			"ansiColors": {
+				"normal": {
+					"blue": "#0080ff"
+				}
+			},
+			"core": {
+				"mapTerminalsTo": "Folder",
+				"shell": "c:\\windows\\system32\\bash.exe"
+			},
+			"toggles": {
+				"autoClose": true
+			}
+		},
+		"pretty-json": {
+			"prettifyOnSaveJSON": true
+		},
+		"sync-settings": {
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/christian-taillon/atom-sync.git"
+		},
+		"tablr": {
+			"tableEditor": {}
+		},
+		"tree-view": {},
+		"vim-mode-plus": {
+			"smoothScrollOnFullScrollMotion": true,
+			"smoothScrollOnHalfScrollMotion": true
+		},
+		"welcome": {
+			"showOnStartup": false
+		}
+	},
+	".powershell.source": {
+		"editor": {
+			"softWrap": true
+		}
+	},
+	".source.splunk": {
+		"editor": {
+			"softWrap": true
+		}
+	}
+}
