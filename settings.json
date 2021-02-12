@@ -77,6 +77,14 @@
 			"showOnStartup": false
 		}
 	},
+	".nginx.source": {
+		"editor": {
+			"autoIndent": false,
+			"autoIndentOnPaste": false,
+			"scrollPastEnd": true,
+			"softWrap": false
+		}
+	},
 	".powershell.source": {
 		"editor": {
 			"softWrap": true
