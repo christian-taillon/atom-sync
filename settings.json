@@ -12,7 +12,7 @@
 			"autoHideMenuBar": true,
 			"disabledPackages": [
 				"wrap-guide",
-				"markdown-preview-plus"
+				"markdown-preview"
 			],
 			"openEmptyEditorOnStart": false,
 			"telemetryConsent": "no",
@@ -24,7 +24,7 @@
 		},
 		"editor": {
 			"fontFamily": "monospace, Menlo, Consolas, DejaVu Sans Mono, ",
-			"fontSize": 11,
+			"fontSize": 12,
 			"showIndentGuide": true,
 			"softWrap": true
 		},
@@ -60,7 +60,6 @@
 		},
 		"sync-settings": {
 			"hiddenSettings": {},
-			"removeObsoletePackages": true,
 			"useOtherLocation": true
 		},
 		"sync-settings-git-location": {
@@ -78,9 +77,12 @@
 			"showOnStartup": false
 		}
 	},
-	".source.splunk": {
+	".nginx.source": {
 		"editor": {
-			"softWrap": true
+			"autoIndent": false,
+			"autoIndentOnPaste": false,
+			"scrollPastEnd": true,
+			"softWrap": false
 		}
 	},
 	".powershell.source": {
@@ -88,12 +90,9 @@
 			"softWrap": true
 		}
 	},
-	".nginx.source": {
+	".source.splunk": {
 		"editor": {
-			"autoIndent": false,
-			"autoIndentOnPaste": false,
-			"scrollPastEnd": true,
-			"softWrap": false
+			"softWrap": true
 		}
 	}
 }
