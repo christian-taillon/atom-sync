@@ -12,7 +12,7 @@
 			"autoHideMenuBar": true,
 			"disabledPackages": [
 				"wrap-guide",
-				"markdown-preview"
+				"markdown-preview-plus"
 			],
 			"openEmptyEditorOnStart": false,
 			"telemetryConsent": "no",
@@ -24,7 +24,7 @@
 		},
 		"editor": {
 			"fontFamily": "monospace, Menlo, Consolas, DejaVu Sans Mono, ",
-			"fontSize": 12,
+			"fontSize": 11,
 			"showIndentGuide": true,
 			"softWrap": true
 		},
@@ -60,6 +60,7 @@
 		},
 		"sync-settings": {
 			"hiddenSettings": {},
+			"removeObsoletePackages": true,
 			"useOtherLocation": true
 		},
 		"sync-settings-git-location": {
