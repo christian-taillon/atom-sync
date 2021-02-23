@@ -203,6 +203,9 @@
 	"language-property-list": {
 		"version": "0.9.1"
 	},
+	"language-puppet": {
+		"version": "0.23.0"
+	},
 	"language-python": {
 		"version": "0.53.5"
 	},
