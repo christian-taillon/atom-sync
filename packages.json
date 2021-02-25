@@ -124,7 +124,9 @@
 	"grammar-selector": {
 		"version": "0.50.1"
 	},
-	"Hydrogen": {},
+	"Hydrogen": {
+		"version": "2.14.7"
+	},
 	"ide-json": {
 		"version": "0.2.1"
 	},
