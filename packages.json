@@ -235,6 +235,9 @@
 	"language-sql": {
 		"version": "0.25.10"
 	},
+	"language-syslog-ng": {
+		"version": "0.0.7"
+	},
 	"language-terraform": {
 		"version": "0.9.6"
 	},

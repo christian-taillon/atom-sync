@@ -24,7 +24,7 @@
 		},
 		"editor": {
 			"fontFamily": "monospace, Menlo, Consolas, DejaVu Sans Mono, ",
-			"fontSize": 11,
+			"fontSize": 10,
 			"showIndentGuide": true,
 			"softWrap": true
 		},
